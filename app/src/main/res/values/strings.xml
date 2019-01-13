@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NavegadoresWeb</string>
+    <string name="chrome">GOOGLE CHROME</string>
+    <string name="firefox">MOZILLA FIREFOX</string>
+    <string name="explorer">INTERNET EXPLORER</string>
+    <string name="opera">OPERA</string>
+    <string name="safari">SAFARI</string>
+</resources>
